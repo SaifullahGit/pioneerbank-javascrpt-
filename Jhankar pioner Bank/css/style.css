@@ -1,0 +1,44 @@
+body {
+    padding: 100px;
+}
+
+.submit-area {
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px;
+}
+
+h1 {
+    background: rgb(226, 103, 161);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#button {
+    width: 100%;
+}
+
+#transition-area {
+    display: none;
+}
+
+.Deposit {
+    margin: 0 20px;
+    background-color: brown;
+}
+
+.Withdraw {
+    margin: 0 20px;
+    background: rgb(189, 133, 3);
+}
+
+.Balance {
+    margin: 0 20px;
+    background: rgba(7, 169, 197, 0.849);
+}
+
+.stutus {
+    padding: 50px;
+    border-radius: 10px;
+}
